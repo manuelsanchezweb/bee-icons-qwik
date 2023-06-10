@@ -6,3 +6,4 @@
 ```
 
 Choose name with the `icon` param and add some custom classes with `customClass`.
+When writing icon you should receive the suggestions of all existing icons in the library.

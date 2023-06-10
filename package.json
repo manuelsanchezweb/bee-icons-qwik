@@ -1,6 +1,6 @@
 {
   "name": "bee-icons-qwik",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Easy Qwik Bee Component to access all cool icons from bee-icons",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
