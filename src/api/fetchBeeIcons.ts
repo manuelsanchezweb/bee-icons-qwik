@@ -1,4 +1,4 @@
-import { Icon } from '../types/types'
+import { Icon } from '..'
 
 export async function fetchBeeIcons(): Promise<Icon[]> {
   const url = 'https://bee-icons.com/api/icons'
