@@ -10,11 +10,6 @@ export default () => {
       </head>
       <body>
         <Bee />
-        <Bee icon="info-circle" customClass="color-red" />
-        <Bee icon="triangle" />
-        <Bee icon="heptagon-fill" customClass="color-red" />
-        <Bee icon="banane" />
-        <Bee icon="donut" customClass="color-red" />
       </body>
     </>
   )
